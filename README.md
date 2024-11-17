@@ -11,4 +11,4 @@ Bem-vindo ao nosso repositório! O objetivo principal deste projeto é dar uma n
 - [Códigos e Scripts](scripts/)
 
 ## Material de Pesquisa
-O material utilizado foi cedido pelo **IFRN (Instituto Federal de Ciência e Tecnologia do Rio Grande do Norte)**, incluindo TV-Box do modelo **MXQ-Pro 4K**. As especificações desses aparelhos serão detalhadas nas seções de revisão de hardware e software.
+O material utilizado foi cedido pelo **IFRN (Instituto Federal de Ciência e Tecnologia do Rio Grande do Norte)**, foram cedidos aparelhos TV-Box do modelo **MXQ-Pro 4K**. As especificações desses aparelhos serão detalhadas nas seções de revisão de [Revisão de Hardware](docs/HARDWARE.md).
