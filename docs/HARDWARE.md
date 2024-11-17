@@ -19,4 +19,4 @@ Os aparelhos TV-Box fornecidos para este projeto possuem as seguintes caracterí
 
 ### Desafios Identificados
 1. **Instalação de Linux**: Como o objetivo era transformar os dispositivos em terminais leves, foi necessário substituir o sistema Android por um sistema operacional Linux, compatível com a arquitetura ARM.
-2. **Aquecimento do Processador**: Durante a análise do hardware, foi identificado que o dissipador de calor estava mal posicionado e com aplicação deficiente de pasta térmica, resultando em possíveis problemas de superaquecimento. Métodos para solucionar esses problemas serão discutidos em [Análise de temperatura](TEMPERATURA.md).
+2. **Aquecimento do Processador**: Durante a análise do hardware, foi identificado que o dissipador de calor estava mal posicionado e com aplicação deficiente de pasta térmica, resultando em possíveis problemas de superaquecimento. Métodos para solucionar esses problemas serão discutidos em [Ajustes de temperatura](TEMPERATURA.md).
