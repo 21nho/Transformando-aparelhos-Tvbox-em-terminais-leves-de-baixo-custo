@@ -8,6 +8,7 @@ Bem-vindo ao nosso repositório! O objetivo principal deste projeto é dar uma n
 - [Revisão de Hardware](docs/HARDWARE.md)
 - [Instalação do Sistema Operacional](docs/INSTALL.md)
 - [Ajustes de Temperatura](docs/TEMPERATURA.md)
+- [Customização do Fluxbox](docs/FLUXBOX.md)
 - [Códigos e Scripts](scripts/)
 
 ## Material de Pesquisa
