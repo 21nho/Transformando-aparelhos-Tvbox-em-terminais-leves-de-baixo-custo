@@ -1,8 +1,7 @@
 # Aparelhos TV-Box como Terminais Leves de Baixo Custo :package::chart_with_downwards_trend::desktop_computer:
 
 ## Introdução
-Bem-vindo ao nosso projeto! O objetivo principal deste repositório é reaproveitar aparelhos TV-Box apreendidos, transformando-os 
-em **terminais leves e de baixo custo**. Estes dispositivos podem ser usados tanto em laboratórios acadêmicos quanto por estudantes que necessitam de uma solução funcional para estudos.
+Bem-vindo ao nosso repositório! O objetivo principal deste projeto é dar uma nova utilidade a aparelhos TV-Box apreendidos, transformando-os em **terminais leves e de baixo custo**. Estes dispositivos podem ser usados tanto em laboratórios acadêmicos quanto por estudantes que necessitam de uma unidade funcional para estudos.
 
 ## Tabela de Conteúdos
 - [Introdução](#introdução)
