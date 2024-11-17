@@ -15,7 +15,7 @@ Para alcançar nosso objetivo, foi necessário substituir o sistema Android pres
 - Com base nos testes, identificamos que o desempenho da versão com XFCE estava abaixo do esperado.
 - Optamos então por instalar uma versão minimalista sem interface gráfica, a **Armbian-legacy-2022-minimal**, e configuramos uma interface gráfica leve utilizando o **Fluxbox**.
 
-Os detalhes sobre a customização da interface **Fluxbox** estão disponíveis no arquivo `FLUXBOX.md`.
+Os detalhes sobre a customização da interface **Fluxbox** estão disponíveis no arquivo de [Customização do Fluxbox](FLUXBOX.md).
 
 ## Instruções de Instalação
 ### Pré-Requisitos
