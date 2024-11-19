@@ -1,7 +1,8 @@
 #################################################### CÓDIGOS E SCRIPTS ####################################################
 
 
-# Se deseja se concetar a uma rede que necessita de autenticação, como a do IFRN, e não possui um browser para isso o script em shell abaixo pode lhe ser útil
+# Para poder autenticar nossas máquinas Tvbox com linux recém instalado foi criado um código em python que permite a autenticação do usuário com base no certificado da eduroam, 
+# utilizando matrícula e senha do suap para autenticação.
 
 #!/usr/bin/python3
 
