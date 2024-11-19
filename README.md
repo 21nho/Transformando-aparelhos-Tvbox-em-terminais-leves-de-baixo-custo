@@ -4,7 +4,6 @@
 Bem-vindo ao nosso repositório! O objetivo principal deste projeto é dar uma nova utilidade a aparelhos TV-Box apreendidos, transformando-os em **terminais leves e de baixo custo**. Estes dispositivos podem ser usados tanto em laboratórios acadêmicos quanto por estudantes que necessitam de uma unidade funcional para estudos.
 
 ## Tabela de Conteúdos
-- [Introdução](#introdução)
 - [Revisão de Hardware](docs/HARDWARE.md)
 - [Instalação do Sistema Operacional](docs/INSTALL.md)
 - [Ajustes de Temperatura](docs/TEMPERATURA.md)
