@@ -7,6 +7,8 @@ Esta seção detalha a análise do hardware dos aparelhos TV-Box utilizados no p
 Os aparelhos TV-Box fornecidos para este projeto possuem as seguintes características:
 - **Modelo**: MXQ-Pro 4K
 - **Processador**: Arquitetura ARM, com um chip da família **Rockchip rk332x**, mais especificamente o modelo **rk3228A**.
+- **Memória RAM**: 961MB
+- **Armazenamento**: 8GB
 - **Sistema Operacional Original**: Android 7.7
 - **Portas e Conectividade**:
   - 4 Entradas USB
