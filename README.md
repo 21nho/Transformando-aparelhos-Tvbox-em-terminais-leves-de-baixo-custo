@@ -9,6 +9,7 @@ Bem-vindo ao nosso repositório! O objetivo principal deste projeto é dar uma n
 - [Desafios e Modificações](docs/TEMPERATURA.md)
 - [Customização do Fluxbox](docs/FLUXBOX.md)
 - [Códigos e Scripts](scripts/)
+- [VDI e Ambiente Virtualizado](docs/PROXMOX.md) 
 
 ## Material de Pesquisa
-O material utilizado foi cedido pelo **IFRN (Instituto Federal de Ciência e Tecnologia do Rio Grande do Norte)**, foram cedidos aparelhos TV-Box do modelo **MXQ-Pro 4K**. As especificações desses aparelhos serão detalhadas nas seções de revisão de [Revisão de Hardware](docs/HARDWARE.md).
+O material utilizado foi cedido pelo **IFRN (Instituto Federal de Ciência e Tecnologia do Rio Grande do Norte)**, foram cedidos aparelhos TV-Box do modelo _**MXQ-Pro 4K**_. As especificações desses aparelhos serão detalhadas na seção de [Revisão de Hardware](docs/HARDWARE.md).
