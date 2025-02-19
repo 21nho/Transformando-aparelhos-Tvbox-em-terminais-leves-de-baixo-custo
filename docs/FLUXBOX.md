@@ -15,7 +15,7 @@ utilização do pcman fm para possuir um explorador de arquivos
 ## Conectividade
 - Para meios de conexão de rede sem fio, foi feito clone de um repositório que gera autenticação wifi com metodo ssid-senha (apresentando uma interface gráfica), o mesmo não funciona caso a rede necessite de algum certificado. Segue repositório: [repositorio](algo)
 
-- Para conexão local na rede cabeada foi criado um script, usado em praticamente todas as etapas do projeto, que é responsável pela autenticação dos aparelhos na rede. para visualizar o script [clique aqui](/scripts)
+- Para poder autenticar nossas máquinas Tvbox com linux recém instalado foi criado um código em python [(auth-ifrn.py)](/scripts/auth-ifrn.py) que permite a autenticação do usuário com base no certificado da eduroam, utilizando matrícula e senha do suap para autenticação. 
 
 ## Mudanças visuais/Conforto
 
