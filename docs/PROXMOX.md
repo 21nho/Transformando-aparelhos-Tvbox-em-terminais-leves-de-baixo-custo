@@ -17,15 +17,22 @@ Como alternativa para contornar as limitações físicas dos aparelhos TVBox, fo
 
 
 - ### **_VM Windows_**
-  - _Conexão realizada por meio do software Remmina_
-  - _Instalação de um servidor RDP na máquina_
-       
-       
-  - _Conectando pelo Remmina:_
+  - _Instalação de um servidor RDP na máquina virtual_
+  - _Conexão realizada por meio do software Remmina_  
+    <BR>
+   ```py
+  apt install-remmina-plugin
+  ```
+  - _Conectando pelo Remmina_
+    <BR>
+  ```py
+  <address>:<port>
+  ```
   
-  -      apt install-remmina-plugin
-  -     192.168.0.1:5900
-  -     passwd
+  ```py
+  passwd
+  ```
+  
   - [Mais sobre o Remmina...](https://remmina.org/)
 
 
