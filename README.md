@@ -12,4 +12,4 @@ Bem-vindo ao nosso repositório! O objetivo principal deste projeto é dar uma n
 - [VDI e Ambiente Virtualizado](docs/PROXMOX.md) 
 
 ## Material de Pesquisa
-O material utilizado foi cedido pelo **IFRN (Instituto Federal de Ciência e Tecnologia do Rio Grande do Norte)**, foram cedidos aparelhos TV-Box do modelo _**MXQ-Pro 4K**_. As especificações desses aparelhos serão detalhadas na seção de [Revisão de Hardware](docs/HARDWARE.md).
+O material utilizado foi cedido pelo **IFRN (_Instituto Federal de Ciência e Tecnologia do Rio Grande do Norte_)**, onde foram disponibilizados aparelhos TvBox do modelo [_MXQ-Pro 4K_](docs/HARDWARE.md).
