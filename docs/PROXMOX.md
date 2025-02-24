@@ -1,6 +1,8 @@
 # Ambiente Virtualizado e Conexão VDI :globe_with_meridians: 🔗
 Como alternativa para contornar as limitações físicas dos aparelhos _TvBox_, foi implementado um sistema de conexão à **VDI**. Para isso, utilizamos um servidor _**ProxMox**_, configurado em uma máquina disponível em nosso laboratório. Nesse servidor, criamos máquinas virtuais (_VMs_) para acesso remoto a partir dos dispositivos _TvBox_. Entre as VMs criadas, estão uma com a imagem do _Ubuntu_ e outra com o _Windows_, permitindo que os usuários possam acessar diferentes ambientes de trabalho diretamente através da _TvBox_.
-- IMAGEM
+
+
+![image alt](https://github.com/21nho/Transformando-aparelhos-Tvbox-em-terminais-leves-de-baixo-custo/blob/dbf3d7914dd7b34aaea0801ecc2058808d105231/docs/proxmox.png)
 
 ## _ProxMox e VDI_
 - ### _**Configurações do Servidor ProxMox**_
@@ -20,7 +22,7 @@ Como alternativa para contornar as limitações físicas dos aparelhos _TvBox_, 
   ```
   - _Com o Remmina instalado, o script de "Seleção de Conexão Remota" disponível em nosso repositório já pode ser utilizado_
  
-  -> imagem do script usando zenith
+ ![image alt](https://github.com/21nho/Transformando-aparelhos-Tvbox-em-terminais-leves-de-baixo-custo/blob/05596f6639983b6a4487f4cc0a704fe957bb1682/docs/conex%C3%A3oremota.png)
 
 
 
