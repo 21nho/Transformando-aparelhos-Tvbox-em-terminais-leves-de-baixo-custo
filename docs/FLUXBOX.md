@@ -37,4 +37,5 @@
 - Foram customizadas teclas de atalho (_hotkeys_) no sistema _FluxBox_.
 - Customização da Área de Trabalho (ícones, atalhos, plano de fundo, [read-me](readmebox.md)).
 - Servidor NTP configurado para ajuste de horário.
+  
 -> imagem com box
