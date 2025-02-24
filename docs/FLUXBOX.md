@@ -1,26 +1,40 @@
-# Customização do Fluxbox
-
-## instalação de pacotes
-- xorg + instalação fluxbox
-inicialização fluxbox -> customização do ambiente físico
-utilização do pcman fm para possuir um explorador de arquivos
-- Olhar na box pacotes instalados (acredito que tinhamos um .txt com os apcotes baixados)
-- explicação cm comandos da customização do startx scripts de automação e etc
+# Customização do Fluxbox 🎨🖌️
+  Devido as limitações de hardware, foi criada uma customização do próprio ambiente gráfico utilizando o WindowManager **[FluxBox](https://fluxbox.org/)**. As customizações transformaram um ambiente totalmente CLI em um ambiente gráfico ideal para usuários não familiarizados com sistemas Linux.
   
-## Instalação de Aplicações
-- Wireshark (para analisar datagramas e tráfego de rede)
-- Featherpad (ide inbutida)
-- A DEFINIR (navegador padrão)
+## Instalação de Pacotes e Ambiente Gráfico
+  - Segue a instalação de vários pacotes que virão a ser utilizados nos scripts armazenados neste repositório que são necessários para a configuração do ambiente funcionar
+ ```py
+  apt install xorg fluxbox xinit xterm feh pcmanfm zenith
+  ```
+  - _**xorg**: servidor gráfico._
+  - _**fluxbox**: gerenciador de janelas minimalista._
+  - _**xinit**: iniciar a sessão gráfica manualmente._
+  - _**xterm**: terminal simples para interagir com o sistema._
+  - _**feh**: visualizador de imagens e configurador de fundo de tela._
+  - _**pcmanfm**: gerenciador de arquivos._
+  - _**zenith**: interface de terminal para monitoramento de sistema._ 
+
+-shellscript inicialização
+-shellscript windowmaker
+-shellscript areade trabalho
+  
+## Aplicações
+```py
+  apt install wireshark featherpad midori luakit
+  ```
+  - _**Wireshark**: ferramenta de captura e análise de pacotes de rede._
+  - _**Featherpad**: editor de texto leve e funcional._
+  - _**Midori**: navegador web._
+  - _**Luakit**: navegador web baseado em WebKitGTK, focado em usuários que preferem um controle completo sobre a interface._
 
 ## Conectividade
-- Para meios de conexão de rede sem fio, foi feito clone de um repositório que gera autenticação wifi com metodo ssid-senha (apresentando uma interface gráfica), o mesmo não funciona caso a rede necessite de algum certificado. Segue repositório: [repositorio](algo)
+- Para meios de conexão de rede sem fio, foram utilizados scripts para autenticação no WiFi com método **SSID-Senha** (apresentando uma interface gráfica). O mesmo _**não funciona caso a rede necessite de algum certificado**_. Foi utilizado como base um outro [repositório](https://github.com/sh377c0d3/connect_wifi_wpa-supplicant), o qual fizemos algumas alterações nos códigos para atender nossas necessidades.
 
-- Para poder autenticar nossas máquinas Tvbox com linux recém instalado foi criado um código em python [(auth-ifrn.py)](/scripts/auth-ifrn.py) que permite a autenticação do usuário com base no certificado da eduroam, utilizando matrícula e senha do suap para autenticação. 
+- Para autenticar as máquinas _TvBox_, foi criado um código em python [(auth-ifrn.py)](/scripts/auth-ifrn.py), que permite a autenticação do usuário com base no certificado da _Eduroam_, utilizando matrícula e senha do SUAP para autenticação. 
 
-## Mudanças visuais/Conforto
+## Mudanças visuais / Conforto
 
-- Foram criadas novas teclas de atalho (hotkeys) no sistema fluxbox.
-- Foram adicionados ícones a tela inicial e criado um papel de parede com a logo do instituto
-- explicação da customização da área de trabalho: (se tu achar que ficaria legal dava pra por, se nao tbm  nao precisa sei la)
-
-  
+- Foram customizadas teclas de atalho (_hotkeys_) no sistema _FluxBox_.
+- Customização da Área de Trabalho (ícones, atalhos, plano de fundo, [read-me](readmebox.md)).
+- Servidor NTP configurado para ajuste de horário.
+-> imagem com box
