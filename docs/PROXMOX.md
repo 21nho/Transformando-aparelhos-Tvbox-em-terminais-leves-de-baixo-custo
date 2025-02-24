@@ -19,6 +19,8 @@ Como alternativa para contornar as limitações físicas dos aparelhos _TvBox_, 
   apt install-remmina-plugin
   ```
   - _Com o Remmina instalado, o script de "Seleção de Conexão Remota" disponível em nosso repositório já pode ser utilizado_
+ 
+  -> imagem do script usando zenith
 
 
 
