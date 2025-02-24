@@ -40,7 +40,7 @@
 ## Mudanças visuais / Conforto
 
 - Foram customizadas teclas de atalho (_hotkeys_) no sistema _FluxBox_.
-- Customização da Área de Trabalho (ícones, atalhos, plano de fundo, [read-me](readmebox.md)).
+- Customização da Área de Trabalho (ícones, atalhos, plano de fundo, [read-me](/docs/LEIA-ME)).
 - Servidor NTP configurado para ajuste de horário.
 
   ![image alt](https://github.com/21nho/Transformando-aparelhos-Tvbox-em-terminais-leves-de-baixo-custo/blob/6b2cb452ff30e78f6975bb0881c7b7f2df4df41e/docs/areadetrabalho.png)
