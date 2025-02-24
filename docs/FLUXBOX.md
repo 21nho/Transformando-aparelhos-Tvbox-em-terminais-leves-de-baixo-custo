@@ -50,3 +50,4 @@
 - Servidor NTP configurado para ajuste de horário.
 
   ![image alt](https://github.com/21nho/Transformando-aparelhos-Tvbox-em-terminais-leves-de-baixo-custo/blob/6b2cb452ff30e78f6975bb0881c7b7f2df4df41e/docs/areadetrabalho.png)
+  ![image alt](https://github.com/21nho/Transformando-aparelhos-Tvbox-em-terminais-leves-de-baixo-custo/blob/aff96e2ca9e7f0de5e9003000d91a788f1677cfa/docs/gerenciadorarquivos.png)
