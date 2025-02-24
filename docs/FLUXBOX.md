@@ -21,16 +21,22 @@
   ```
   - _**Wireshark**: ferramenta de captura e análise de pacotes de rede._
 
+
     ![image alt](https://github.com/21nho/Transformando-aparelhos-Tvbox-em-terminais-leves-de-baixo-custo/blob/4b948f018e250087180b0cc9398c3100ac7745a5/docs/wireshark.png)
+
+
     
   - _**Featherpad**: editor de texto leve e funcional._
 
+
+
     ![image alt](https://github.com/21nho/Transformando-aparelhos-Tvbox-em-terminais-leves-de-baixo-custo/blob/ddaec5c3b640d98f8658ee76ce2379c2ebf47b04/docs/featherpad.png)
+
+
     
   - _**Midori**: navegador web._
     ![image alt](https://github.com/21nho/Transformando-aparelhos-Tvbox-em-terminais-leves-de-baixo-custo/blob/0cd3ce52bc87b2f64e72d464e9a6dd612e45e081/docs/midori.png)
-    
-  - _**Luakit**: navegador web baseado em WebKitGTK, focado em usuários que preferem um controle completo sobre a interface._
+
 
 ## Conectividade
 - Para meios de conexão de rede sem fio, foram utilizados scripts para autenticação no WiFi com método **SSID-Senha** (apresentando uma interface gráfica). O mesmo _**não funciona caso a rede necessite de algum certificado**_. Foi utilizado como base um outro [repositório](https://github.com/sh377c0d3/connect_wifi_wpa-supplicant), o qual fizemos algumas alterações nos códigos para atender nossas necessidades.
