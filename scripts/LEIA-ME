@@ -1,0 +1,23 @@
+### GUIA INFORMATIVO A RESPEITO DAS CONFIGURAÇÕES ESPECÍFICAS DESTE APARELHO ###
+
+=> O aparelho contém o featherpad, sendo ele o software com intuito de ser o editor de texto/IDE padrão para desenvolvimento de códigos e atividades relacionadas.
+
+=> Para análise de pacotes trafegando na rede temos o wireshark instalado como software principal.
+
+=> Para poder estabelecer uma conexão sem fio basta clicar no ícone da área de trabalho chamado "Wifi". Ele rodará um script que irá mostrar as redes disponíveis para conexão e logo após selecionar a rede que você deseja se conectar, ele solicitará a senha da mesma rede (após isso a conexão wifi será estabelecida). IMPORTANTE: este script de menu Wifi não verifica certificados, então possa ser que haja problemas com a autenticação em redes sem fio que solicitem os mesmos (como por exemplo a eduroam). É interessante salientar que o menu wi-fi demora consideravelmente para abrir (alguns segundos).
+
+=> O escolhido para ser nosso navegador foi o Midori (devido principalmente a baixa necessidade de recursos). Ele possui atalho na área de trabalho, além disso enfrenta alguns problemas com sites que possuem determinado tipo de autenticação (exemplo: página de autenticação ao tentar acessar algo na rede do ifrn). Para contornar esse tipo de problema da falta de reconhecimento de certificados, foi criado um script em python, onde em nosso contexto específico autentica um usuário na rede do ifrn. O script está nomeado como "auth-ifrn.py" e está localizado no seu diretório /root; após executar o script será solicitada matrícula/senha e logo em seguida feita a autenticação.
+
+=> Deixamos um organizador de pacotes na área de trabalho para facilitar visualização e manipulação de arquivos, além de auxiliar na criação da nossa área de trabalho.
+
+=> NÃO É RECOMENDADO EXCLUIR OU MOVER ARQUIVOS NO DIRETÓRIO /root. Muitas configurações dependem de arquivos com caminhos mapeados de maneira específica, ao fazer alterações certifique-se de que podem ocorrer erros nos programas instalados.
+
+=> Para mais informações a respeito da distribuição, processo de instalação e metódos de customização, é recomendado visitar nossa página no github: https://github.com/21nho/Transformando-aparelhos-Tvbox-em-terminais-leves-de-baixo-custo
+
+!!! IMPORTANTE !!!
+Utilize o atalho de Desktop Remoto para poder se conectar a sistemas operacionais virtualizados. Existem duas possibilidades de SO para serem escolhidas, uma sendo uma máquina virtual Windows e a outra uma máquina virtual Ubuntu. É importante reforçar que não se deve desligar a máquina virtual (comandos como shutdown ou poweroff); As conexões com as máquinas virtuais são feitas via protocolo RDP, e ambas as máquinas estão hospedadas em um servidor ProxMox local.
+
+
+
+
+
