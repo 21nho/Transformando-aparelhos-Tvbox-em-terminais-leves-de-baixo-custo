@@ -1,4 +1,4 @@
-# Desafios e Modificações 🧰
+# Desafios e Modificações 🧗‍♀️🔄
 Existiam vários desafios físicos para poder realizar a implementação das ideias na _TvBox_, e devido a isso foram feitas diversas alterações tanto de Hardware quanto de Software. Também foram feitas customizações para melhoria de uso do aparelho.
 
 ## Temperatura do processador elevada
